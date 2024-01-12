@@ -38,6 +38,6 @@ export default defineConfig({
   },
   base: `http://172.30.111.50:8080/child/`,
   build: {
-    outDir: 'vite/child',
+    outDir: 'vite',
   },
 })
